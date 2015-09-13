@@ -36,6 +36,14 @@ public class StaticClass {
         
         ChildClass abs=new ChildClass();
         abs.display();
+        
+        
+        //=================abstruct ckass for trigonomitic,class.>trigonomitic,squre,rectangle =================
+        
+        Rectangle r=new Rectangle();
+        r.area();
+        Squre s=new Squre();
+        s.area();
       
     }
 }
